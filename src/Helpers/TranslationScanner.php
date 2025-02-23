@@ -22,6 +22,9 @@ class TranslationScanner
 
         $files = File::allFiles(lang_path());
 
+
+
+
         if (!empty($directories)) {
             $files = array_merge($files, File::allFiles($directories));
         }

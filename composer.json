@@ -20,6 +20,7 @@
         "filament/filament": "^3.0",
         "filament/notifications": "^3.0.0",
         "spatie/laravel-package-tools": "^1.15.0",
+        "spatie/laravel-ray": "^1.39",
         "spatie/laravel-translation-loader": "^2.7",
         "stijnvanouplines/blade-country-flags": "^1.0"
     },
